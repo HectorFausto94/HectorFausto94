@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hector Fausto
-Backend dev. I'm learning to program backend, taking the Openbootcamp course and other tools* 🌍  I'm based in Ciudad de México* ✉️  You can contact me at [haft94@outlook.com](mailto:haft94@outlook.com)* 🧠  I'm learning JAVA* 🤝  I'm open to collaborating on interesting projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hector Fausto. I'm learning to program backend, taking the Openbootcamp course and other tools* 🌍  I'm based in Ciudad de México* ✉️  You can contact me at [haft94@outlook.com](mailto:haft94@outlook.com)* 🧠  I'm learning JAVA* 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
 
